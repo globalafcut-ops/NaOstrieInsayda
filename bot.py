@@ -29,7 +29,7 @@ from telegram.ext import (
 # =========================
 # CONFIG
 # =========================
-BOT_TOKEN = "8694819008:AAHez9zAlV2DWV-j268-ijg5h1pGG0uO9Uc"
+BOT_TOKEN = "8694819008:AAHez9zAlV2DWV-j268-ijg5h1pGG0uO9"
 MAIN_ADMIN_ID = 8587056338
 
 REVIEWS_URL = "https://t.me/otzuvufinanceradar"
